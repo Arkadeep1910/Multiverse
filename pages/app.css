@@ -276,7 +276,7 @@ a.movie-item:hover {
 }
 @media only screen and (max-width: 415px){
     .logo {
-        margin-right: 200px;
+        margin-right: 180px;
         margin-left: 20px;
     }
 }
